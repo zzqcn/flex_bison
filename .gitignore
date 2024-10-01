@@ -1,0 +1,10 @@
+.vscode/
+build/
+
+calc/calc
+calc/*.h
+calc/*.c
+
+wc/wc
+wc/*.c
+

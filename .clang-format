@@ -1,0 +1,14 @@
+# ref: https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+
+---
+BasedOnStyle: LLVM
+Language: Cpp
+IndentWidth: 2
+ColumnLimit: 100
+AllowShortFunctionsOnASingleLine: InlineOnly
+AlignEscapedNewlines: Left
+AlignConsecutiveMacros: Consecutive
+IndentPPDirectives: AfterHash
+SortIncludes: Never
+...
+
