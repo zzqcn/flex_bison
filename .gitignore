@@ -1,10 +1,20 @@
 .vscode/
 build/
 
+wc/wc
+wc/*.c
+
+wc2/wc2
+wc2/*.c
+
+wc3/wc3
+wc3/*.c
+
 calc/calc
 calc/*.h
 calc/*.c
 
-wc/wc
-wc/*.c
-
+cref/cref
+cref/fb2-5
+cref/fb2-5.c
+cref/cref_lex.*
