@@ -18,3 +18,7 @@ cref/cref
 cref/fb2-5
 cref/fb2-5.c
 cref/cref_lex.*
+
+filter/filter
+filter/filter_lex.*
+filter/filter_syn.*
